@@ -1,8 +1,8 @@
 #Class: Menu
 
 **Attributes**
-* prices (float)
-* menuItems (string)
+* menuItem (string)
+* price (float)
 * dietaryComments (boolean)
 * material (string)
 
